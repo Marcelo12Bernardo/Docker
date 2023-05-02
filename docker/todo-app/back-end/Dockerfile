@@ -10,4 +10,4 @@ EXPOSE 3001
 
 ENTRYPOINT [ "npm" ]
 
-CMD [ "star" ]
+CMD [ "start" ]
